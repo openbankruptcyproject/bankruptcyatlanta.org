@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bankruptcyatlanta.org/sitemap.xml
