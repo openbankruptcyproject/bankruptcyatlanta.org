@@ -6,15 +6,231 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Atlanta Bankruptcy Statistics -- Chapter 13 Dismissal Rates [2026]
-Source: https://bankruptcyatlanta.org/
+## Debtor Education in Atlanta - Georgia Credit Counseling &amp; Financial Management
+Source: https://bankruptcyatlanta.org/debtor-education.html
 
 Bankruptcy Atlanta
-HomeStatisticsWhat to KnowResourcesOBP
+HomeStatisticsWhat to KnowDebtor EducationResourcesOBP
 
-Atlanta Bankruptcy Statistics -- Chapter 13 Dismissal Data
+Home›Debtor Education in Atlanta - Georgia Credit Counseling & Financial Management
 
-The Northern District of Georgia processes one of the highest case volumes in the country -- 245,569 filings, 159,456 dismissed. Nearly half of all filers are repeats. The 2024 dismissal rate hit 99.0%.
+Debtor Education Requirements in Atlanta, Georgia
+
+Two mandatory courses stand between you and a bankruptcy discharge in Georgia. Here is exactly what the Northern and Middle Districts require, where to go, and how to get help if you cannot afford it.
+
+Two Required Courses - No Exceptions
+
+Federal law (11 U.S.C. sections 109(h) and 111) requires every individual bankruptcy filer in Georgia to complete two separate educational courses. Skipping either one will block your discharge.
+
+1
+
+Pre-Filing Credit Counseling
+
+Complete within 180 days before filing your petition. The course reviews your finances, explores alternatives to bankruptcy, and may result in a debt management plan. Takes 60--90 minutes. Must be from a DOJ-approved agency for the Northern District of Georgia or the Middle District of Georgia, depending on where you file.
+
+File the certificate as Official Form 301 with your petition.
+
+2
+
+Post-Filing Financial Management Course
+
+Complete after filing but before discharge. Covers budgeting, money management, and using credit wisely. Takes about 2 hours. Must also come from a DOJ-approved provider.
+
+File the certificate as Official Form 423. In Chapter 7, the deadline is 60 days after the 341 meeting. In Chapter 13, complete it before your final payment.
+
+Georgia does not allow debtors to opt into federal exemptions under 11 U.S.C. section 522(b)(2). You must use Georgia's state exemption statutes (O.C.G.A. sections 44-13-1 and 44-13-100).
+
+Georgia Bankruptcy Courts Serving Atlanta
+
+Atlanta-area cases are filed in the Northern District of Georgia. Residents south of metro Atlanta may fall in the Middle District. Your county determines your court.
+
+Northern District of Georgia - Atlanta Division
+
+Richard B. Russell Federal Building
+75 Ted Turner Drive SW, Suite 1340
+Atlanta, GA 30303
+
+Phone: (404) 215-1000
+
+Serves 46 counties: Fulton, DeKalb, Gwinnett, Cobb, Clayton, Cherokee, Forsyth, Hall, and 38 others across northern Georgia.
+
+341 meetings are held at the Office of the U.S. Trustee, 362 Richard B. Russell Building, 75 Ted Turner Drive SW, Atlanta, GA 30303.
+
+Northern District of Georgia - Newnan Division
+
+18 Greenville Street
+Newnan, GA 30263
+
+Serves Coweta, Carroll, Fayette, Heard, Meriwether, Pike, Spalding, and Troup counties.
+
+Northern District of Georgia - Gainesville Division
+
+121 Spring Street SE, Suite 100
+Gainesville, GA 30501
+
+Serves Banks, Dawson, Habersham, Lumpkin, Rabun, Stephens, Towns, Union, and White counties.
+
+Northern District of Georgia - Rome Division
+
+600 East First Street, Room 120
+Rome, GA 30161
+
+Serves Bartow, Catoosa, Chattooga, Dade, Floyd, Gordon, Murray, Paulding, Polk, Walker, and Whitfield counties.
+
+Middle District of Georgia - Macon Division
+
+P.O. Box 1957
+Macon, GA 31202
+
+Phone: (478) 752-3506
+
+Serves central Georgia counties including Bibb, Houston, Peach, Monroe, and Jones.
+
+Georgia Bankruptcy Exemptions
+
+Georgia requires debtors to use state exemptions exclusively. You cannot elect federal exemptions. These amounts are current as of 2026. Married couples filing jointly may double most exemptions.
+
+PropertyGeorgia ExemptionStatute
+
+Homestead$21,500 per person ($43,000 married)O.C.G.A. 44-13-100(a)(1)
+
+Motor vehicle$5,000 per personO.C.G.A. 44-13-100(a)(3)
+
+Personal property (household goods, clothing, appliances)$5,000 per personO.C.G.A. 44-13-100(a)(4)
+
+Jewelry$500O.C.G.A. 44-13-100(a)(5)
+
+Wildcard (any property)$1,200 plus up to $10,000 unused homesteadO.C.G.A. 44-13-100(a)(6)
+
+Tools of trade$1,500O.C.G.A. 44-13-100(a)(7)
+
+Health aidsUnlimitedO.C.G.A. 44-13-100(a)(9)
+
+Retirement accounts (ERISA-qualified)UnlimitedO.C.G.A. 44-13-100(a)(2.1)
+
+Workers' compensationUnlimitedO.C.G.A. 34-9-84
+
+Alimony/Child supportAmount reasonably necessaryO.C.G.A. 44-13-100(a)(2)(D)
+
+Georgia's homestead exemption is modest compared to states like Florida (unlimited) or Minnesota ($450,000). If you own significant home equity above $21,500, discuss this with an attorney before filing Chapter 7.
+
+Atlanta Legal Aid & Free Resources
+
+If you cannot afford an attorney, these organizations serve Atlanta and greater Georgia.
+
+Atlanta Legal Aid Society
+
+(404) 524-5811
+
+Serves Fulton, DeKalb, Clayton, Cobb, and Gwinnett counties. Provides free civil legal help including bankruptcy assistance for residents at or below 125% of the federal poverty level. Main office: 54 Ellis Street NE, Atlanta, GA 30303.
+
+Georgia Legal Services Program
+
+(404) 206-5175
+
+Serves 154 counties outside metro Atlanta, including Middle District counties. Offers free legal assistance to low-income Georgians. Statewide intake line helps route to the nearest office.
+
+Atlanta Volunteer Lawyers Foundation
+
+(404) 521-0790
+
+Pro bono attorney matching for qualifying Atlanta residents. Saturday Lawyers Program at the Fulton County courthouse offers brief consultations. 235 Peachtree Street NE, Suite 1600, Atlanta, GA 30303.
+
+Emory Law Volunteer Clinic for Veterans
+
+Emory University School of Law, 1301 Clifton Road, Atlanta, GA 30322. Law students supervised by faculty assist veterans with bankruptcy-related issues.
+
+Georgia State University Law Clinic
+
+GSU College of Law, 85 Park Place NE, Atlanta, GA 30303. Student attorneys provide free representation in select consumer bankruptcy cases under faculty supervision.
+
+DOJ-Approved Credit Counseling Agencies (N.D. Ga.)
+
+The U.S. Trustee maintains a list of approved agencies for each district. Many offer fee waivers for low-income debtors. Online and telephone options are available statewide.
+
+View approved agencies
+
+Georgia-Specific Rules to Know
+
+No Federal Exemption Election
+
+Unlike roughly 20 states that let debtors choose between state and federal exemptions, Georgia is a state-exemptions-only jurisdiction. O.C.G.A. section 44-13-100(b) expressly opts out of the federal exemption scheme.
+
+Georgia's 730-Day Residency Rule
+
+Under 11 U.S.C. section 522(b)(3), you must have been domiciled in Georgia for at least 730 days (2 years) before filing to use Georgia exemptions. If you moved to Atlanta recently, you may need to use the exemptions from your prior state.
+
+Means Test and Georgia Median Income
+
+Chapter 7 eligibility depends on the means test under 11 U.S.C. section 707(b)(2). Georgia median income figures are updated by the U.S. Trustee and vary by household size. If your income exceeds the Georgia median, you may need to file Chapter 13 instead.
+
+Reaffirmation Practices in N.D. Ga.
+
+The Northern District of Georgia requires reaffirmation agreements to be filed before discharge. If you want to keep a financed car or other secured property, your attorney must review and sign the agreement, or the court will hold a hearing to ensure it does not impose undue hardship.
+
+Frequently Asked Questions
+
+What debtor education courses are required in Georgia?
+
+Georgia filers must complete two courses: (1) a pre-filing credit counseling course from a DOJ-approved agency within 180 days before filing, and (2) a post-filing debtor education (financial management) course before discharge. Both are required under 11 U.S.C. sections 109(h) and 111. Courses cost $10--$50 each and can be completed online, by phone, or in person.
+
+Where is the bankruptcy court in Atlanta?
+
+The Northern District of Georgia Bankruptcy Court is at the Richard B. Russell Federal Building, 75 Ted Turner Drive SW, Suite 1340, Atlanta, GA 30303. The clerk's office phone is (404) 215-1000. The court has additional divisions in Newnan, Gainesville, and Rome.
+
+What are Georgia's bankruptcy exemptions?
+
+Georgia uses state-specific exemptions only. Key exemptions: homestead up to $21,500 ($43,000 married), vehicle up to $5,000, personal property up to $5,000, wildcard up to $1,200 plus unused homestead up to $10,000. Georgia exemptions are in O.C.G.A. sections 44-13-1 and 44-13-100.
+
+How do I get free bankruptcy help in Atlanta?
+
+Atlanta Legal Aid Society at (404) 524-5811 provides free bankruptcy help to low-income residents in Fulton, DeKalb, Clayton, Cobb, and Gwinnett counties. Georgia Legal Services Program covers rural areas. The Atlanta Volunteer Lawyers Foundation matches qualifying residents with pro bono attorneys.
+
+How long does debtor education take?
+
+The pre-filing credit counseling takes 60--90 minutes. The post-filing financial management course takes about 2 hours. In Chapter 7, the post-filing certificate must be filed within 60 days of the 341 meeting. In Chapter 13, complete it before final payment. File certificate using Official Form 423.
+
+Open Bankruptcy Project Network
+
+Open Bankruptcy Project
+1328(f) Screener
+1328(f) Research
+Chapter 7 vs 13
+Means Test
+341 Meeting
+Automatic Stay
+How to File
+Exemptions by State
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+An Open Bankruptcy Project resource
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+© 2026 Open Bankruptcy Project. GitHub
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+---
+
+## Atlanta Bankruptcy Statistics - Chapter 13 Dismissal Rates [2026]
+Source: https://bankruptcyatlanta.org/
+
+Skip to main content
+
+Bankruptcy Atlanta
+HomeStatisticsWhat to KnowResourcesOBP Rule 9037 PII Scanner
+
+Atlanta Bankruptcy Statistics - Chapter 13 Dismissal Data
+
+The Northern District of Georgia processes one of the highest case volumes in the country - 245,569 filings, 159,456 dismissed. Nearly half of all filers are repeats. The 2024 dismissal rate hit 99.0%.
 
 N.D. Ga.: 99.0% dismissal rate in 2024
 
@@ -44,11 +260,11 @@ Est. 1328(f) Violations
 
 NDGA Dismissal Rate by Year (2008--2024)
 
-Chapter 13 Dismissal Rate -- Northern District of Georgia
+Chapter 13 Dismissal Rate - Northern District of Georgia
 
 Source: Federal Judicial Center Integrated Database, 2008--2024. Analysis by Open Bankruptcy Project.
 
-Methodology note: Chapter 13 plans run 3-5 years. Cases filed 2020-2024 are preliminary -- successful plans are still active, so only early dismissals are reflected. The headline rate uses 2008-2019 data where most cases have reached final disposition. Source: Federal Judicial Center Integrated Database.
+Methodology note: Chapter 13 plans run 3-5 years. Cases filed 2020-2024 are preliminary - successful plans are still active, so only early dismissals are reflected. The headline rate uses 2008-2019 data where most cases have reached final disposition. Source: Federal Judicial Center Integrated Database.
 
 Georgia District Comparison
 
@@ -56,7 +272,7 @@ Northern District (NDGA)
 
 70.8%
 
-245,569 cases filed -- 159,456 dismissed, 59,258 discharged. 44.8% prior filer rate. 11.7% pro se. 7,815 estimated 1328(f) violations. The highest volume of any top-10 worst district.
+245,569 cases filed - 159,456 dismissed, 59,258 discharged. 44.8% prior filer rate. 11.7% pro se. 7,815 estimated 1328(f) violations. The highest volume of any top-10 worst district.
 
 Richard B. Russell Building (75 Ted Turner Dr SW)
 
@@ -64,9 +280,9 @@ Middle District (MDGA)
 
 50.0%
 
-95,513 cases filed -- 40,978 dismissed, 41,034 discharged. 33.5% prior filer rate. Only 2.5% pro se. 4,587 estimated 1328(f) violations.
+95,513 cases filed - 40,978 dismissed, 41,034 discharged. 33.5% prior filer rate. Only 2.5% pro se. 4,587 estimated 1328(f) violations.
 
-Macon -- Columbus -- Albany
+Macon - Columbus - Albany
 
 Southern District (SDGA)
 
@@ -74,7 +290,7 @@ Southern District (SDGA)
 
 94,058 cases filed. Similar rate to MDGA but covering the southern portion of the state.
 
-Savannah -- Augusta -- Brunswick
+Savannah - Augusta - Brunswick
 
 Key Statistics
 
@@ -82,43 +298,43 @@ Highest Volume Among the Worst Districts
 
 NDGA processes more Chapter 13 cases than almost any district in America:
 
-245,569 total filings -- one of the largest caseloads nationally
+245,569 total filings - one of the largest caseloads nationally
 
-159,456 dismissed -- the majority of all cases filed
+159,456 dismissed - the majority of all cases filed
 
-Only 59,258 discharges -- a 24.1% success rate
+Only 59,258 discharges - a 24.1% success rate
 
-44.8% prior filer rate -- nearly half have failed before
+44.8% prior filer rate - nearly half have failed before
 
-99.0% dismissal in 2024 -- very few cases have reached discharge so far
+99.0% dismissal in 2024 - very few cases have reached discharge so far
 
-7,815 estimated 1328(f) violations -- cases that were legally doomed
+7,815 estimated 1328(f) violations - cases that were legally doomed
 
 The Acceleration
 
 NDGA's dismissal rate was relatively stable in the low 70s for over a decade. Post-2020, the preliminary rate rose sharply:
 
-2020: 69.0% -- within the historical range
+2020: 69.0% - within the historical range
 
-2021: 79.3% -- a 10-point jump
+2021: 79.3% - a 10-point jump
 
-2022: 92.3% -- among the highest in the database
+2022: 92.3% - among the highest in the database
 
-2023: 97.3% -- continuing to rise
+2023: 97.3% - continuing to rise
 
-2024: 99.0% -- the highest preliminary rate recorded
+2024: 99.0% - the highest preliminary rate recorded
 
 In four years, NDGA went from a district where roughly 3 in 10 filers succeeded to one where 1 in 100 does.
 
 The Repeat Filer Machine
 
-44.8% of NDGA filers have filed bankruptcy before -- the highest prior filer rate of any major district. The rate has been near 50% for a decade (peaking at 49.7% in 2017). This creates an enormous cycle:
+44.8% of NDGA filers have filed bankruptcy before - the highest prior filer rate of any major district. The rate has been near 50% for a decade (peaking at 49.7% in 2017). This creates an enormous cycle:
 
 Consumer files Chapter 13
 
 Case is dismissed (70.8% chance historically, 99.0% now)
 
-Consumer's situation has not improved -- may be worse
+Consumer's situation has not improved - may be worse
 
 Consumer files again, now as a "prior filer"
 
@@ -126,7 +342,7 @@ Many repeat filers are ineligible under 1328(f) time bars
 
 Case is dismissed again, perpetuating the cycle
 
-An estimated 7,815 cases may have been filed in violation of 1328(f) -- meaning those filers paid fees and invested time in cases where discharge was legally impossible.
+An estimated 7,815 cases may have been filed in violation of 1328(f) - meaning those filers paid fees and invested time in cases where discharge was legally impossible.
 
 Frequently Asked Questions
 
@@ -140,7 +356,7 @@ How many Chapter 13 cases are dismissed in Atlanta?
 
 What is the prior filer rate in Atlanta bankruptcy?
 
-44.8% of Chapter 13 filers in NDGA have filed bankruptcy before -- nearly half. An estimated 7,815 cases may involve potential 1328(f) eligibility violations.
+44.8% of Chapter 13 filers in NDGA have filed bankruptcy before - nearly half. An estimated 7,815 cases may involve potential 1328(f) eligibility violations.
 
 How does Atlanta compare to other Georgia districts?
 
@@ -191,6 +407,10 @@ Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 © 2026 Open Bankruptcy Project. GitHub
+
+Privacy Policy
+
+Cited by the Federal Rules Committee (26-BK-3)
 
 Have a Question?
 
@@ -278,305 +498,19 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## NDGA Chapter 13 Statistics -- Year-by-Year Data | Bankruptcy Atlanta
-Source: https://bankruptcyatlanta.org/statistics.html
-
-Bankruptcy Atlanta
-HomeStatisticsWhat to KnowResourcesOBP
-
-Atlanta Chapter 13 Statistics -- Complete Data
-
-Year-by-year breakdown of Chapter 13 bankruptcy outcomes in the Northern District of Georgia. All data from the Federal Judicial Center Integrated Database.
-
-70.8%
-
-Dismissal Rate (2008-2019)
-
-245,569
-
-Total Cases (2008--2024)
-
-159,456
-
-Total Dismissed
-
-59,258
-
-Total Discharged
-
-44.8%
-
-Prior Filer Rate
-
-99.0%
-
-2024 Dismissal Rate
-
-Year-by-Year Breakdown -- N.D. Ga.
-
-YearCases FiledDismissal RatePrior Filer RateTrend
-
-200817,44772.5%38.8%
-
-200918,16567.4%38.3%-5.1
-
-201019,70766.0%37.0%-1.4
-
-201121,97469.5%40.0%+3.5
-
-201219,95769.3%43.0%-0.2
-
-201317,21571.3%46.3%+2.0
-
-201415,08771.7%46.7%+0.4
-
-201515,59574.0%48.7%+2.3
-
-201615,38174.8%49.0%+0.8
-
-201714,87272.4%49.7%-2.4
-
-201814,82472.0%49.6%-0.4
-
-201914,43470.6%48.5%-1.4
-
-2020*9,53569.0%49.5%-1.6
-
-2021*5,83779.3%48.3%+10.3
-
-2022*7,44992.3%49.3%+13.0
-
-2023*8,96897.3%48.0%+5.0
-
-2024*9,12299.0%46.2%+1.7
-
-* Preliminary -- Chapter 13 plans run 3-5 years, so successful plans filed in these years are still active. Only early dismissals are reflected.
-
-Methodology note: Chapter 13 plans run 3-5 years. Cases filed 2020-2024 are preliminary -- successful plans are still active, so only early dismissals are reflected. The headline rate uses 2008-2019 data where most cases have reached final disposition. Source: Federal Judicial Center Integrated Database.
-
-Volume Analysis
-
-NDGA's raw case volume is enormous:
-
-Peak: 21,974 cases in 2011 -- one of the highest single-year totals of any district
-
-Pre-COVID average: ~16,000 cases/year
-
-COVID low: 5,837 in 2021
-
-2024: 9,122 cases -- and 99.0% dismissed
-
-At 2024 rates, roughly 9,030 of those 9,122 cases will end in dismissal. Fewer than 100 filers per year are now receiving a discharge in this district.
-
-Prior Filer Analysis
-
-NDGA has the highest sustained prior filer rate of any major district. Key patterns:
-
-The prior filer rate has been above 40% every year since 2011
-
-It peaked at 49.7% in 2017 -- nearly one in two filers was a repeat
-
-Even in 2024, 46.2% are prior filers despite the near-100% dismissal rate
-
-The combination of high volume + high repeat rate + high dismissal = maximum consumer harm
-
-An estimated 7,815 cases may have violated 1328(f) time bars -- the highest estimated violation count of any district studied.
-
-Georgia Comparison
-
-Georgia's three districts show significant variation:
-
-NDGA (Atlanta): 70.8% dismissal, 245,569 cases, 44.8% prior filer rate
-
-MDGA (Macon): 50.0% dismissal, 95,513 cases, 33.5% prior filer rate
-
-SDGA (Savannah): 49.7% dismissal, 94,058 cases
-
-The Atlanta district is dramatically worse than the rest of the state. Middle and Southern Georgia have dismissal rates in the 50% range -- still high, but far below NDGA's 70.8% overall and 99.0% current rate.
-
-Key Findings
-
-159,456 dismissed cases represent one of the largest concentrations of Chapter 13 failure in the country
-
-The dismissal rate jumped from 69.0% to 99.0% in just four years (2020--2024)
-
-44.8% prior filer rate is the highest sustained rate of any major district
-
-7,815 estimated 1328(f) violations -- the highest of any district analyzed
-
-At 2024 rates, fewer than 100 out of 9,122 annual filers receive a discharge
-
-11.7% pro se rate -- most filers have attorneys, yet nearly all still fail
-
-Explore National Data at OBP
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-An Open Bankruptcy Project resource
-
-Data: Federal Judicial Center Integrated Database (2008--2024).
-
-Not legal advice. Consult a qualified attorney.
-
-© 2026 Open Bankruptcy Project
-
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
-
-You May Also Find Helpful
-
-Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loans in Bankruptcy -- bankruptcystudentloans.org
-
----
-
-## What to Know About Chapter 13 in Atlanta -- Consumer Guide | Bankruptcy Atlanta
-Source: https://bankruptcyatlanta.org/what-to-know.html
-
-Bankruptcy Atlanta
-HomeStatisticsWhat to KnowResourcesOBP
-
-What Atlanta Consumers Should Know About Chapter 13
-
-If you are considering Chapter 13 bankruptcy in the Atlanta area -- or have already been dismissed -- this page explains what the data means for you.
-
-99.0% of Cases Failed in 2024
-
-The Northern District of Georgia dismissed 99.0% of Chapter 13 cases in 2024. Nearly half of all filers are repeats -- people who have been through the process before and failed. Over 159,000 cases have been dismissed since 2008.
-
-What Does "Dismissed" Mean?
-
-Dismissal means your Chapter 13 repayment plan failed. You do not receive a discharge. Creditors resume collection. Common causes:
-
-Missed plan payments -- failing to make monthly trustee payments
-
-Missing documents -- tax returns, pay stubs, certificates
-
-Plan not confirmable -- proposed plan does not meet legal requirements
-
-Ineligibility -- prior discharge creates a time bar under 1328(f)
-
-What Makes Atlanta's Data Notable
-
-Several factors make NDGA particularly notable:
-
-Massive scale: 245,569 cases -- more than many states combined
-
-Highest prior filer rate: 44.8% have filed before, the worst sustained rate nationally
-
-Rapid increase: From 69.0% to 99.0% in just four years (preliminary)
-
-7,815 estimated 1328(f) violations: The most of any district -- cases filed where discharge was legally impossible
-
-Most filers have attorneys (88.3%): This is not a pro se problem -- represented clients are failing too
-
-Questions to Ask an Attorney Before Filing
-
-1. What is your firm's Chapter 13 discharge rate?
-
-The district rate is 99.0% dismissal in 2024. Ask how their clients compare. A firm that cannot answer this question should raise concerns.
-
-2. Have you screened me for 1328(f) eligibility?
-
-With 44.8% of filers being repeats, this screening is critical. 7,815 cases may have been filed despite ineligibility.
-
-3. Why not Chapter 7?
-
-Chapter 7 completes in months with much higher success rates. Ask why a 3-5 year Chapter 13 plan is recommended over Chapter 7 for your specific situation.
-
-4. How many active cases does your firm have right now?
-
-High-volume practices may not provide the monitoring and support needed to navigate a multi-year plan.
-
-5. What happens to your fees if I am dismissed?
-
-If fees are paid through the plan and the case is dismissed, the attorney may have been compensated while you received nothing.
-
-6. If I have filed before, why will this time be different?
-
-If the same firm filed your previous dismissed case, ask specifically what they will do differently. The same approach rarely produces different results.
-
-Red Flags to Watch For
-
-Warning Signs
-
-No eligibility check -- the firm does not verify your prior filing history
-
-Volume-first practice -- hundreds of simultaneous cases, limited individual attention
-
-Same firm, prior dismissal -- if they filed your last dismissed case, why trust them again?
-
-No Chapter 7 discussion -- Chapter 13 presented without evaluating faster alternatives
-
-Cannot reach attorney after filing -- communication drops off once fees are flowing
-
-No data transparency -- cannot or will not share their firm's discharge rate
-
-If You Have Been Dismissed
-
-Read the dismissal order -- understand exactly why your case failed
-
-Check time bars -- 109(g) and 362(c) may limit your automatic stay if you refile
-
-Evaluate your attorney's performance -- did they file documents on time? Attend hearings? Return calls?
-
-Consider alternatives -- Chapter 7 (if eligible), debt negotiation, or simply waiting
-
-Get a second opinion -- especially if the same firm wants to refile for you
-
-Check your 1328(f) eligibility -- use the free screener before paying any new fees
-
-The Repeat Filing Trap
-
-44.8% of NDGA filers have filed before -- nearly half the docket. If you are a repeat filer:
-
-Your automatic stay may be limited to 30 days (section 362(c)(3)) or eliminated entirely (362(c)(4))
-
-You may be ineligible for discharge under 1328(f)
-
-Courts may presume bad faith
-
-The same approach that failed is unlikely to work again
-
-Before paying another filing fee, verify your eligibility and ask hard questions about what will be different this time.
-
-Check Your Eligibility -- Free Screener
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-An Open Bankruptcy Project resource
-
-This is general information, not legal advice. Consult a qualified attorney.
-
-© 2026 Open Bankruptcy Project
-
-You May Also Find Helpful
-
-Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-Section 727(a)(8) Discharge Waiting Period -- 727a8.com
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
----
-
-## Atlanta Bankruptcy Resources -- Courts, Legal Aid, Free Tools | Bankruptcy Atlanta
+## Atlanta Bankruptcy Resources - Courts, Legal Aid, Free Tools | Bankruptcy Atlanta
 Source: https://bankruptcyatlanta.org/resources.html
 
 Bankruptcy Atlanta
 HomeStatisticsWhat to KnowResourcesOBP
 
+Home›Atlanta Bankruptcy Resources - Courts, Legal Aid, Free Tools | Bankruptcy Atlanta›Atlanta Bankruptcy Resources
+
 Atlanta Bankruptcy Resources
 
 Courts, legal aid organizations, free tools, and research resources for Atlanta area bankruptcy filers.
 
-Federal Bankruptcy Courts -- Georgia
+Federal Bankruptcy Courts - Georgia
 
 Northern District of Georgia (NDGA)
 
@@ -616,7 +550,7 @@ avlf.org
 
 Pro bono legal assistance connecting low-income Atlantans with volunteer attorneys.
 
-State Bar of Georgia -- Lawyer Referral Service
+State Bar of Georgia - Lawyer Referral Service
 
 gabar.org
 
@@ -628,7 +562,7 @@ Free Screening and Research Tools
 
 1328f.com
 
-Free tool to check whether a prior discharge creates a time bar. Runs entirely in your browser -- no data collected.
+Free tool to check whether a prior discharge creates a time bar. Runs entirely in your browser - no data collected.
 
 Open Bankruptcy Project
 
@@ -644,7 +578,7 @@ In-depth research on repeat filing patterns and eligibility violations.
 
 Federal Resources
 
-U.S. Trustee Program -- Region 21
+U.S. Trustee Program - Region 21
 
 justice.gov/ust
 
@@ -656,7 +590,7 @@ pacer.uscourts.gov
 
 Access federal court records. Fee-based ($0.10/page, capped at $3.00/document).
 
-Federal Judicial Center -- Integrated Database
+Federal Judicial Center - Integrated Database
 
 fjc.gov/research/idb
 
@@ -664,7 +598,7 @@ The source database for all statistics on this site.
 
 Georgia State Resources
 
-State Bar of Georgia -- Consumer Assistance Program
+State Bar of Georgia - Consumer Assistance Program
 
 gabar.org
 
@@ -684,7 +618,7 @@ chapter7vs13.org
 
 Side-by-side comparison of Chapter 7 and Chapter 13 bankruptcy.
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 bankruptcydismissed.com
 
@@ -711,3 +645,367 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
 
 Section 727(a)(8) Discharge Waiting Period -- 727a8.com
+
+---
+
+## NDGA Chapter 13 Statistics - Year-by-Year Data | Bankruptcy Atlanta
+Source: https://bankruptcyatlanta.org/statistics.html
+
+Bankruptcy Atlanta
+HomeStatisticsWhat to KnowResourcesOBP
+
+Home›NDGA Chapter 13 Statistics - Year-by-Year Data | Bankruptcy Atlanta›Atlanta Chapter 13 Statistics - Complete Data
+
+Atlanta Chapter 13 Statistics - Complete Data
+
+Year-by-year breakdown of Chapter 13 bankruptcy outcomes in the Northern District of Georgia. All data from the Federal Judicial Center Integrated Database.
+
+70.8%
+
+Dismissal Rate (2008-2019)
+
+245,569
+
+Total Cases (2008--2024)
+
+159,456
+
+Total Dismissed
+
+59,258
+
+Total Discharged
+
+44.8%
+
+Prior Filer Rate
+
+99.0%
+
+2024 Dismissal Rate
+
+Year-by-Year Breakdown - N.D. Ga.
+
+YearCases FiledDismissal RatePrior Filer RateTrend
+
+200817,44772.5%38.8%
+
+200918,16567.4%38.3%-5.1
+
+201019,70766.0%37.0%-1.4
+
+201121,97469.5%40.0%+3.5
+
+201219,95769.3%43.0%-0.2
+
+201317,21571.3%46.3%+2.0
+
+201415,08771.7%46.7%+0.4
+
+201515,59574.0%48.7%+2.3
+
+201615,38174.8%49.0%+0.8
+
+201714,87272.4%49.7%-2.4
+
+201814,82472.0%49.6%-0.4
+
+201914,43470.6%48.5%-1.4
+
+2020*9,53569.0%49.5%-1.6
+
+2021*5,83779.3%48.3%+10.3
+
+2022*7,44992.3%49.3%+13.0
+
+2023*8,96897.3%48.0%+5.0
+
+2024*9,12299.0%46.2%+1.7
+
+* Preliminary - Chapter 13 plans run 3-5 years, so successful plans filed in these years are still active. Only early dismissals are reflected.
+
+Methodology note: Chapter 13 plans run 3-5 years. Cases filed 2020-2024 are preliminary - successful plans are still active, so only early dismissals are reflected. The headline rate uses 2008-2019 data where most cases have reached final disposition. Source: Federal Judicial Center Integrated Database.
+
+Volume Analysis
+
+NDGA's raw case volume is enormous:
+
+Peak: 21,974 cases in 2011 - one of the highest single-year totals of any district
+
+Pre-COVID average: ~16,000 cases/year
+
+COVID low: 5,837 in 2021
+
+2024: 9,122 cases - and 99.0% dismissed
+
+At 2024 rates, roughly 9,030 of those 9,122 cases will end in dismissal. Fewer than 100 filers per year are now receiving a discharge in this district.
+
+Prior Filer Analysis
+
+NDGA has the highest sustained prior filer rate of any major district. Key patterns:
+
+The prior filer rate has been above 40% every year since 2011
+
+It peaked at 49.7% in 2017 - nearly one in two filers was a repeat
+
+Even in 2024, 46.2% are prior filers despite the near-100% dismissal rate
+
+The combination of high volume + high repeat rate + high dismissal = maximum consumer harm
+
+An estimated 7,815 cases may have violated 1328(f) time bars - the highest estimated violation count of any district studied.
+
+Georgia Comparison
+
+Georgia's three districts show significant variation:
+
+NDGA (Atlanta): 70.8% dismissal, 245,569 cases, 44.8% prior filer rate
+
+MDGA (Macon): 50.0% dismissal, 95,513 cases, 33.5% prior filer rate
+
+SDGA (Savannah): 49.7% dismissal, 94,058 cases
+
+The Atlanta district is dramatically worse than the rest of the state. Middle and Southern Georgia have dismissal rates in the 50% range - still high, but far below NDGA's 70.8% overall and 99.0% current rate.
+
+Key Findings
+
+159,456 dismissed cases represent one of the largest concentrations of Chapter 13 failure in the country
+
+The dismissal rate jumped from 69.0% to 99.0% in just four years (2020--2024)
+
+44.8% prior filer rate is the highest sustained rate of any major district
+
+7,815 estimated 1328(f) violations - the highest of any district analyzed
+
+At 2024 rates, fewer than 100 out of 9,122 annual filers receive a discharge
+
+11.7% pro se rate - most filers have attorneys, yet nearly all still fail
+
+Explore National Data at OBP
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+An Open Bankruptcy Project resource
+
+Data: Federal Judicial Center Integrated Database (2008--2024).
+
+Not legal advice. Consult a qualified attorney.
+
+© 2026 Open Bankruptcy Project
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+---
+
+## What to Know About Chapter 13 in Atlanta - Consumer Guide | Bankruptcy Atlanta
+Source: https://bankruptcyatlanta.org/what-to-know.html
+
+Bankruptcy Atlanta
+HomeStatisticsWhat to KnowResourcesOBP
+
+Home›What to Know About Chapter 13 in Atlanta - Consumer Guide | Bankruptcy Atlanta›What Atlanta Consumers Should Know About Chapter 13
+
+What Atlanta Consumers Should Know About Chapter 13
+
+If you are considering Chapter 13 bankruptcy in the Atlanta area - or have already been dismissed - this page explains what the data means for you.
+
+99.0% of Cases Failed in 2024
+
+The Northern District of Georgia dismissed 99.0% of Chapter 13 cases in 2024. Nearly half of all filers are repeats - people who have been through the process before and failed. Over 159,000 cases have been dismissed since 2008.
+
+What Does "Dismissed" Mean?
+
+Dismissal means your Chapter 13 repayment plan failed. You do not receive a discharge. Creditors resume collection. Common causes:
+
+Missed plan payments - failing to make monthly trustee payments
+
+Missing documents - tax returns, pay stubs, certificates
+
+Plan not confirmable - proposed plan does not meet legal requirements
+
+Ineligibility - prior discharge creates a time bar under 1328(f)
+
+What Makes Atlanta's Data Notable
+
+Several factors make NDGA particularly notable:
+
+Massive scale: 245,569 cases - more than many states combined
+
+Highest prior filer rate: 44.8% have filed before, the worst sustained rate nationally
+
+Rapid increase: From 69.0% to 99.0% in just four years (preliminary)
+
+7,815 estimated 1328(f) violations: The most of any district - cases filed where discharge was legally impossible
+
+Most filers have attorneys (88.3%): This is not a pro se problem - represented clients are failing too
+
+Questions to Ask an Attorney Before Filing
+
+1. What is your firm's Chapter 13 discharge rate?
+
+The district rate is 99.0% dismissal in 2024. Ask how their clients compare. A firm that cannot answer this question should raise concerns.
+
+2. Have you screened me for 1328(f) eligibility?
+
+With 44.8% of filers being repeats, this screening is critical. 7,815 cases may have been filed despite ineligibility.
+
+3. Why not Chapter 7?
+
+Chapter 7 completes in months with much higher success rates. Ask why a 3-5 year Chapter 13 plan is recommended over Chapter 7 for your specific situation.
+
+4. How many active cases does your firm have right now?
+
+High-volume practices may not provide the monitoring and support needed to navigate a multi-year plan.
+
+5. What happens to your fees if I am dismissed?
+
+If fees are paid through the plan and the case is dismissed, the attorney may have been compensated while you received nothing.
+
+6. If I have filed before, why will this time be different?
+
+If the same firm filed your previous dismissed case, ask specifically what they will do differently. The same approach rarely produces different results.
+
+Red Flags to Watch For
+
+Warning Signs
+
+No eligibility check - the firm does not verify your prior filing history
+
+Volume-first practice - hundreds of simultaneous cases, limited individual attention
+
+Same firm, prior dismissal - if they filed your last dismissed case, why trust them again?
+
+No Chapter 7 discussion - Chapter 13 presented without evaluating faster alternatives
+
+Cannot reach attorney after filing - communication drops off once fees are flowing
+
+No data transparency - cannot or will not share their firm's discharge rate
+
+If You Have Been Dismissed
+
+Read the dismissal order - understand exactly why your case failed
+
+Check time bars - 109(g) and 362(c) may limit your automatic stay if you refile
+
+Evaluate your attorney's performance - did they file documents on time? Attend hearings? Return calls?
+
+Consider alternatives - Chapter 7 (if eligible), debt negotiation, or simply waiting
+
+Get a second opinion - especially if the same firm wants to refile for you
+
+Check your 1328(f) eligibility - use the free screener before paying any new fees
+
+The Repeat Filing Trap
+
+44.8% of NDGA filers have filed before - nearly half the docket. If you are a repeat filer:
+
+Your automatic stay may be limited to 30 days (section 362(c)(3)) or eliminated entirely (362(c)(4))
+
+You may be ineligible for discharge under 1328(f)
+
+Courts may presume bad faith
+
+The same approach that failed is unlikely to work again
+
+Before paying another filing fee, verify your eligibility and ask hard questions about what will be different this time.
+
+Check Your Eligibility - Free Screener
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+An Open Bankruptcy Project resource
+
+This is general information, not legal advice. Consult a qualified attorney.
+
+© 2026 Open Bankruptcy Project
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Section 727(a)(8) Discharge Waiting Period -- 727a8.com
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+---
+
+## Privacy Policy - bankruptcyatlanta.org
+Source: https://bankruptcyatlanta.org/privacy.html
+
+bankruptcyatlanta.org
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
