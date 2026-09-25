@@ -1,6 +1,6 @@
 # bankruptcyatlanta.org -- Full Content
 
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 This file contains the full text content of all pages on bankruptcyatlanta.org.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -19,6 +19,8 @@ Home›Debtor Education in Atlanta - Georgia Credit Counseling & Financial Manag
 Debtor Education Requirements in Atlanta, Georgia
 
 Two mandatory courses stand between you and a bankruptcy discharge in Georgia. Here is exactly what the Northern and Middle Districts require, where to go, and how to get help if you cannot afford it.
+
+Georgia filers must complete two courses: (1) a pre-filing credit counseling course from a DOJ-approved agency within 180 days before filing, and (2) a post-filing debtor education (financial management) course before discharge. Both are required under 11 U.S.C. sections 109(h) and 111. Courses cost $10-$50 each and can be completed online, by phone, or in person.
 
 Two Required Courses - No Exceptions
 
@@ -204,13 +206,33 @@ Automatic Stay
 How to File
 Exemptions by State
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project. GitHub
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -228,7 +250,7 @@ Source: https://bankruptcyatlanta.org/
 Skip to main content
 
 Bankruptcy Atlanta
-HomeStatisticsWhat to KnowResourcesOBP Rule 9037 PII Scanner
+HomeStatisticsWhat to KnowResourcesOBP Rule 9037 Compliance Guide
 
 Atlanta Bankruptcy Statistics - Chapter 13 Dismissal Data
 
@@ -259,6 +281,8 @@ Prior Filer Rate
 7,815
 
 Est. 1328(f) Violations
+
+The Northern District of Georgia has a 70.8% Chapter 13 dismissal rate based on mature 2008-2019 data where most cases have reached final disposition. 245,569 total cases were filed between 2008 and 2024.
 
 NDGA Dismissal Rate by Year (2008--2024)
 
@@ -400,19 +424,33 @@ Dismissed?
 Cost
 File Again?
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
 
-Privacy Policy
+♥ Donate
 
-Cited by the Federal Rules Committee (26-BK-3)
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 Have a Question?
 
@@ -498,6 +536,34 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
+Site Map
+
+Additional resources on this site
+
+Index
+
 ---
 
 ## Atlanta Bankruptcy Resources - Courts, Legal Aid, Free Tools | Bankruptcy Atlanta
@@ -511,6 +577,8 @@ Home›Atlanta Bankruptcy Resources - Courts, Legal Aid, Free Tools | Bankruptcy
 Atlanta Bankruptcy Resources
 
 Courts, legal aid organizations, free tools, and research resources for Atlanta area bankruptcy filers.
+
+bankruptcydismissed.com Next steps after a dismissed bankruptcy case.
 
 Federal Bankruptcy Courts - Georgia
 
@@ -632,13 +700,33 @@ filebankruptcyagain.com
 
 Time bar rules and eligibility information for repeat filers.
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This is general information, not legal advice. Consult a qualified attorney.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -784,17 +872,33 @@ At 2024 rates, fewer than 100 out of 9,122 annual filers receive a discharge
 
 Explore National Data at OBP
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data: Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-Not legal advice. Consult a qualified attorney.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project
+Privacy |
+Terms
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -808,7 +912,7 @@ Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
 ---
 
-## What to Know About Chapter 13 in Atlanta - Consumer Guide | Bankruptcy Atlanta
+## What to Know About Chapter 13 in Atlanta [2026]: NDGA Filing, GA Exemptions, and Fulton/DeKalb Logistics
 Source: https://bankruptcyatlanta.org/what-to-know.html
 
 Bankruptcy Atlanta
@@ -823,6 +927,8 @@ If you are considering Chapter 13 bankruptcy in the Atlanta area - or have alrea
 99.0% of Cases Failed in 2024
 
 The Northern District of Georgia dismissed 99.0% of Chapter 13 cases in 2024. Nearly half of all filers are repeats - people who have been through the process before and failed. Over 159,000 cases have been dismissed since 2008.
+
+The district rate is 99.0% dismissal in 2024. Ask how their clients compare. A firm that cannot answer this question should raise concerns.
 
 What Does "Dismissed" Mean?
 
@@ -922,13 +1028,33 @@ Before paying another filing fee, verify your eligibility and ask hard questions
 
 Check Your Eligibility - Free Screener
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This is general information, not legal advice. Consult a qualified attorney.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -998,7 +1124,7 @@ You may request deletion of any personal data we hold by contacting info@openban
 
 Network Policy
 
-This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit. The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+This site is part of the Open Bankruptcy Project operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
 Changes
 
@@ -1008,6 +1134,61 @@ Effective: March 30, 2026  |  Updated: April 11, 2026
 
 Home  ·  Privacy  ·  Open Bankruptcy Project
 
-Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## About bankruptcyatlanta.org
+Source: https://bankruptcyatlanta.org/about.html
+
+bankruptcyatlanta.org
+
+Home
+About
+Privacy
+
+About bankruptcyatlanta.org
+
+Part of the Open Bankruptcy Project operated by the Open Bankruptcy Project.
+
+What This Site Is
+
+bankruptcyatlanta.org is an educational resource operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). It's part of the Open Bankruptcy Project - a collection of free, public-interest sites that translate federal bankruptcy court data, statutes, and procedures into language ordinary people can use.
+
+The Open Bankruptcy Project
+
+The Open Bankruptcy Project builds free, open-source tools that make public bankruptcy court data accessible to the people it affects most - debtors, advocates, researchers, journalists, and policymakers. Every screening tool, analysis script, and dataset is published on GitHub. Anyone can audit, reproduce, or build upon the work without permission or payment.
+
+Our research is derived primarily from the Federal Judicial Center's Integrated Database covering all federal bankruptcy filings 2008 through 2024, cross-referenced with PACER docket data via the Free Law Project's RECAP archive and independent court-scraping tooling. Methodology and source code are public.
+
+What This Site Is Not
+
+This site is not a law firm. We do not represent clients, file bankruptcy cases, or give legal advice. We do not receive referral fees, affiliate commissions, or advertising revenue. We do not sell data.
+
+If you need legal advice about your specific situation, consult a licensed bankruptcy attorney in your state.
+
+Research Contributions
+
+Our research supports two accepted suggestions to the Federal Judicial Conference Advisory Committee on Bankruptcy Rules:
+
+Suggestion 26-BK-3 - procedural screening for 11 U.S.C. § 1328(f) re-filing eligibility
+
+Suggestion 26-BK-5 - Rule 9037 / Form 121 / Form 309E1 amendments addressing systematic unredacted Social Security number exposure on federal bankruptcy dockets
+
+Contact
+
+General inquiries, data requests, research collaboration, and media: info@openbankruptcyproject.org
+
+Privacy and Data Handling
+
+See our privacy policy for details. Short version: aggregate analytics only; no data sold, no advertising, no attorney referrals, no financial information collected.
+
+Home  ·  About  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
 
 No ads. No affiliate links. No data sold. Supported by donations.

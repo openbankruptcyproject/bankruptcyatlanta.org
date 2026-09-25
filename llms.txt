@@ -1,5 +1,5 @@
 # Atlanta Bankruptcy Statistics - Chapter 13 Dismissal Rates [2026]
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 > Atlanta bankruptcy statistics from 8M federal cases. Chapter 13 dismissal rates, filing trends, and outcome data analyzed by the Open Bankruptcy Project.
 
@@ -11,8 +11,9 @@ bankruptcyatlanta.org is part of the Open Bankruptcy Project (openbankruptcyproj
 - Atlanta Bankruptcy Statistics - Chapter 13 Dismissal Rates: https://bankruptcyatlanta.org/
 - Atlanta Bankruptcy Resources - Courts, Legal Aid, Free Tools | Bankruptcy Atlanta: https://bankruptcyatlanta.org/resources.html
 - NDGA Chapter 13 Statistics - Year-by-Year Data | Bankruptcy Atlanta: https://bankruptcyatlanta.org/statistics.html
-- What to Know About Chapter 13 in Atlanta - Consumer Guide | Bankruptcy Atlanta: https://bankruptcyatlanta.org/what-to-know.html
+- What to Know About Chapter 13 in Atlanta [2026]: NDGA Filing, GA Exemptions, and Fulton/DeKalb Logistics: https://bankruptcyatlanta.org/what-to-know.html
 - Privacy Policy: https://bankruptcyatlanta.org/privacy.html
+- About bankruptcyatlanta.org: https://bankruptcyatlanta.org/about.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
